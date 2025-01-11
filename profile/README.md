@@ -1,4 +1,4 @@
-# Web Development Solutions
+# Muslewski - Web Development Solutions
 
 We deliver custom-built modern websites and web applications for businesses.  
 Our goal is to provide high-quality, tailored solutions that meet your needs.
